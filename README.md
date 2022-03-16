@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### Latest Projects
 최근에 진행한 프로젝트 레포 링크
 
-[dogShop practice](https://github.com/KimEunhyuk/shopProj.git)
+[Youtebeact-Miniproject](https://github.com/KimEunhyuk/Youtubeact-Miniproject.git)
 
 ### Languages and Tools
 
