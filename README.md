@@ -15,19 +15,16 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### I am KimEunHyuk, Dream of becoming a developer from :kr: Seoul, Republic of Korea 
+#### I'm EunHyuk, Dream of becoming a developer from :kr: Incheon, Republic of Korea 
 
-### About me
+<!-- ### About me -->
 
-### Interest
+<!-- ### Interest -->
 
-### Latest Projects
-최근에 진행한 프로젝트 레포 링크
-
+### 👨‍👩‍👧‍👦 Latest Projects
 [Youtebeact-Miniproject](https://github.com/KimEunhyuk/Youtubeact-Miniproject.git)
 
-### Languages and Tools
-
+### 👨‍💻 Languages and Tools
 <p>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?&style=flat-square&logo=html5&logoColor=white"/> 
@@ -40,11 +37,13 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 </p>
 
-### connect with me
+<!-- ### connect with me -->
 <p>
 
 </p>
 
+### 📊 git status 
 <!-- status bar -->
   <img src="https://github-readme-stats.vercel.app/api?username=KimEunhyuk&layout=compact&show_icons=true&theme=vue&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimEunhyuk&layout=compact&theme=vue&hide_border=true" />
+app/api/top-langs/?username=KimEunhyuk&layout=compact&theme=vue&hide_border=true" />
