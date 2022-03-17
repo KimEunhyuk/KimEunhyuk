@@ -17,12 +17,16 @@ Here are some ideas to get you started:
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 #### I'm EunHyuk, Dream of becoming a developer from :kr: Incheon, Republic of Korea 
 
+
+
 <!-- ### About me -->
 
 <!-- ### Interest -->
 
 ### 👨‍👩‍👧‍👦 Latest Projects
 [Youtebeact-Miniproject](https://github.com/KimEunhyuk/Youtubeact-Miniproject.git)
+
+
 
 ### 👨‍💻 Languages and Tools
 <p>
@@ -41,6 +45,8 @@ Here are some ideas to get you started:
 <p>
 
 </p>
+
+
 
 ### 📊 git status 
 <!-- status bar -->
