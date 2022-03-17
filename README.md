@@ -15,16 +15,14 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-#### I'm EunHyuk, Dream of becoming a developer from :kr: Incheon, Republic of Korea 
-
-
+#### I'm EunHyuk, Dream of becoming a developer from :kr: Incheon, Republic of Korea <br><br>
 
 <!-- ### About me -->
 
 <!-- ### Interest -->
 
 ### 👨‍👩‍👧‍👦 Latest Projects
-[Youtebeact-Miniproject](https://github.com/KimEunhyuk/Youtubeact-Miniproject.git)
+[Youtebeact-Miniproject](https://github.com/KimEunhyuk/Youtubeact-Miniproject.git) <br><br>
 
 
 
@@ -39,7 +37,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-</p>
+</p> <br><br>
 
 <!-- ### connect with me -->
 <p>
