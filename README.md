@@ -50,4 +50,4 @@ Here are some ideas to get you started:
 <!-- status bar -->
   <img src="https://github-readme-stats.vercel.app/api?username=KimEunhyuk&layout=compact&show_icons=true&theme=vue&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimEunhyuk&layout=compact&theme=vue&hide_border=true" />
-app/api/top-langs/?username=KimEunhyuk&layout=compact&theme=vue&hide_border=true" />
+<app/api/top-langs/?username=KimEunhyuk&layout=compact&theme=vue&hide_border=true" />
