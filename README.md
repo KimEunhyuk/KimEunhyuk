@@ -89,8 +89,8 @@ Here are some ideas to get you started:
 <!-- [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=KimEunhyuk)](https://solved.ac/KimEunhyuk) -->
 
 <div display="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KimEunhyuk&theme=vue&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimEunhyuk&theme=vue&layout=compact"/>
+<img width="400"src="https://github-readme-stats.vercel.app/api?username=KimEunhyuk&theme=vue&show_icons=true"/>
+<img height="195" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimEunhyuk&theme=vue&layout=compact"/>
 </div>
 </div>
 <br/><br/>
