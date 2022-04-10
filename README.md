@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 
 <div display="center">
 <img width="400"src="https://github-readme-stats.vercel.app/api?username=KimEunhyuk&theme=vue&show_icons=true"/>
-<img height="195" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimEunhyuk&theme=vue&layout=compact"/>
+<img height="157.562" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimEunhyuk&theme=vue&layout=compact"/>
 </div>
 </div>
 <br/><br/>
