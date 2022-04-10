@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&text=EunhyukKim&height=255&section=header&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&text=EunhyukKim&height=255&section=header&fontSize=90&fontColor=black)
 
 <!-- 출처: https://kimasill.tistory.com/entry/Github-깃허브-프로필-꾸미기 [널디 코드 일기] -->
 
