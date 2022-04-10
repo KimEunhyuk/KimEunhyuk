@@ -42,30 +42,23 @@ Here are some ideas to get you started:
 
 
 
-### 👨‍💻 Tech Stack 👨‍💻 
+### 💙 Tech Stack 💙
   <br/>
 <p>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-badge&logo=Java&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/HTML5-E34F26?&style=flat-badge&logo=html5&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-badge&logo=css3&logoColor=white" /> &nbsp
 <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-badge&logo=javascript&logoColor=F7DF1E" /> &nbsp
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-badge&logo=Spring&logoColor=white"/> &nbsp <br/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-badge&logo=Spring&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-badge&logo=React&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-badge&logo=Python&logoColor=white"/> &nbsp
-</p>
-<br/><br/>
-
-<h3><b>💙 Tools 💙</b></h3><br/>
-<p>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-badge&logo=Python&logoColor=white"/> &nbsp <br/>
 <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-badge&logo=eclipse&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-badge&logo=Apache Tomcat&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-badge&logo=visualstudiocode&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat-badge&logo=oracle&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-badge&logo=MySQL&logoColor=white"/> &nbsp <br/>
+<img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat-badge&logo=oracle&logoColor=white"/> &nbsp <br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-badge&logo=MySQL&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-badge&logo=Node.js&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-badge&logo=Android&logoColor=white"/> &nbsp
-
-
 </p>
 <br/><br/>
   
@@ -96,8 +89,8 @@ Here are some ideas to get you started:
 <!-- [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=KimEunhyuk)](https://solved.ac/KimEunhyuk) -->
 
 <div display="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KimEunhyuk&theme=omni&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimEunhyuk&theme=omni&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KimEunhyuk&theme=vue&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimEunhyuk&theme=vue&layout=compact"/>
 </div>
 </div>
 <br/><br/>
