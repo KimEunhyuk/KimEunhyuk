@@ -52,5 +52,5 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimEunhyuk&layout=compact&theme=vue&hide_border=true" />
 <app/api/top-langs/?username=KimEunhyuk&layout=compact&theme=vue&hide_border=true" />
 
-[![Top Langs](gttps://github-readme-stats.vercel.app/api/top-langs/?username=KimEunhyuk)](gttps://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](gttps://github-readme-stats.vercel.app/api/top-langs/?username=KimEunhyuk)](gttps://github.com/KimEunhyuk/github-readme-stats)
 
