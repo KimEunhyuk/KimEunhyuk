@@ -43,7 +43,6 @@ Here are some ideas to get you started:
 
 
 ### 💙 Tech Stack 💙
-  <br/>
 <p>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-badge&logo=Java&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/HTML5-E34F26?&style=flat-badge&logo=html5&logoColor=white"/> &nbsp
@@ -63,7 +62,7 @@ Here are some ideas to get you started:
 <br/><br/>
   
   
-<h3 align="center"><b>✨ Social ✨</b></h3><br/>
+<h3 align="center"><b>✨ Social ✨</b></h3>
 <p align="center">	
 <a href="https://www.facebook.com/profile.php?id=100004881432005"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-badge&logo=facebook&logoColor=white"/></a> &nbsp 
 <a href="https://www.instagram.com/eunhyukkkkkkkk/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-badge&logo=instagram&logoColor=white"/></a> &nbsp
@@ -81,7 +80,7 @@ Here are some ideas to get you started:
 
 ### 📊 git status 
 
-<!-- status bar --><br/>
+<!-- status bar -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=KimEunhyuk&layout=compact&show_icons=true&theme=vue&hide_border=true" /> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimEunhyuk&layout=compact&theme=vue&hide_border=true" /> -->
 <!-- <app/api/top-langs/?username=KimEunhyuk&layout=compact&theme=vue&hide_border=true" /> -->
