@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&text=EunhyukKim&height=255&section=header&fontSize=90&fontColor=black)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&text=EunhyukKim&height=255&section=header&fontSize=90&fontColor=black&animation=twinkling)
 
 <!-- 출처: https://kimasill.tistory.com/entry/Github-깃허브-프로필-꾸미기 [널디 코드 일기] -->
 
@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-badge&logo=Spring&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-badge&logo=React&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-badge&logo=Python&logoColor=white"/> &nbsp <br/>
-<img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-badge&logo=eclipse&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-badge&logo=Apache Tomcat&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-badge&logo=visualstudiocode&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat-badge&logo=oracle&logoColor=white"/> &nbsp <br/>
+<img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat-badge&logo=oracle&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-badge&logo=MySQL&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-badge&logo=eclipse&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-badge&logo=Apache Tomcat&logoColor=white"/> &nbsp <br/>
+<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-badge&logo=visualstudiocode&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-badge&logo=Node.js&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-badge&logo=Android&logoColor=white"/> &nbsp
 </p>
@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 
 <!-- [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=KimEunhyuk)](https://solved.ac/KimEunhyuk) -->
 
-<div display="center">
+<div display="flex">
 <img width="400"src="https://github-readme-stats.vercel.app/api?username=KimEunhyuk&theme=vue&show_icons=true"/>
 <img height="157.562" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimEunhyuk&theme=vue&layout=compact"/>
 </div>
