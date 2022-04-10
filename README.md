@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&text=EunhyukKim&height=180&section=header&fontSize=90)
 
 <!-- 출처: https://kimasill.tistory.com/entry/Github-깃허브-프로필-꾸미기 [널디 코드 일기] -->
 
@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   
-### 🐣 Kim Eunhyuk 🐤 
-  <br/><br/>
+<!-- ### 🐣 Kim Eunhyuk 🐤 
+  <br/><br/> -->
   
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 #### I'm EunHyuk, Dream of becoming a developer from :kr: Incheon, Republic of Korea 
