@@ -73,7 +73,8 @@ Here are some ideas to get you started:
 <h3 align="center"><b>✨ Social ✨</b></h3><br/>
 <p align="center">	
 <a href="https://www.facebook.com/profile.php?id=100004881432005"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-badge&logo=facebook&logoColor=white"/></a> &nbsp 
-<a href="https://www.instagram.com/eunhyukkkkkkkk/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-badge&logo=instagram&logoColor=white"/></a> 
+<a href="https://www.instagram.com/eunhyukkkkkkkk/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-badge&logo=instagram&logoColor=white"/></a> &nbsp
+<!-- <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-badge&logo=naver&logoColor=white" alt="bang1676@naver.com"/></a> &nbsp -->
   
 <br/><br/>
   
