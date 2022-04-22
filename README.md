@@ -94,4 +94,4 @@ Here are some ideas to get you started:
 </div>
 <br/><br/>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=pink&height=180&section=footer)
