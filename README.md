@@ -44,28 +44,28 @@ Here are some ideas to get you started:
 
 ### 💙 Tech Stack 💙
 <p>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-badge&logo=Java&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-badge&logo=Apache Tomcat&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/HTML5-E34F26?&style=flat-badge&logo=html5&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-badge&logo=css3&logoColor=white" /> &nbsp <br/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=flat-badge&logo=javascript&logoColor=F7DF1E" /> &nbsp
-<img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat-badge&logo=oracle&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-badge&logo=MySQL&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-badge&logo=Spring&logoColor=white"/> &nbsp 
-<img src="https://img.shields.io/badge/React-45b8d8?style=flat-badge&logo=React&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-badge&logo=Python&logoColor=white"/> &nbsp <br/>
-<img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-badge&logo=eclipse&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-badge&logo=visualstudiocode&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-badge&logo=Node.js&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-badge&logo=Android&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Java-007396?style=flat-badge&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-badge&logo=Apache Tomcat&logoColor=white"/> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?&style=flat-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-badge&logo=css3&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=flat-badge&logo=javascript&logoColor=F7DF1E" /> 
+<img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-badge&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-badge&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-45b8d8?style=flat-badge&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-badge&logo=Python&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-badge&logo=eclipse&logoColor=white"/>
+<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-badge&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-badge&logo=Android&logoColor=white"/>
 </p>
 <br/><br/>
   
   
 <h3 align="center"><b>✨ Social ✨</b></h3>
 <p align="center">	
-<a href="https://www.facebook.com/profile.php?id=100004881432005"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-badge&logo=facebook&logoColor=white"/></a> &nbsp 
-<a href="https://www.instagram.com/eunhyukkkkkkkk/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-badge&logo=instagram&logoColor=white"/></a> &nbsp
+<a href="https://www.facebook.com/profile.php?id=100004881432005"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.instagram.com/eunhyukkkkkkkk/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-badge&logo=instagram&logoColor=white"/></a>
 <!-- <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-badge&logo=naver&logoColor=white" alt="bang1676@naver.com"/></a> &nbsp -->
   
 <br/><br/>
