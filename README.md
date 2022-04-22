@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat-badge&logo=oracle&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-badge&logo=MySQL&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-badge&logo=Spring&logoColor=white"/> &nbsp 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-badge&logo=React&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/React-45b8d8?style=flat-badge&logo=React&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-badge&logo=Python&logoColor=white"/> &nbsp <br/>
 <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-badge&logo=eclipse&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-badge&logo=visualstudiocode&logoColor=white"/> &nbsp
