@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <!-- ### Interest -->
 
 ### 👨‍👩‍👧‍👦 Latest Projects
-[project-Team7-sevenstay⭐](https://github.com/KimEunhyuk/project-Team7-sevenstay.git)
+[Project_ToMyAnimal⭐](https://github.com/KimEunhyuk/Project_ToMyAnimal)
 <br/><br/><br/>
 
 
